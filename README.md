@@ -1,3 +1,6 @@
+This project deployed on Heroku: https://pizza-test-project.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
